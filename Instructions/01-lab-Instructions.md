@@ -10,7 +10,7 @@ lab:
 
 ![Visual Studio Code 圖示](./images/vscode.jpg)
 
-2.  我們將提取此專案的最新版本。在開啟終端機中鍵入 [+++getfiles.cmd+++] 並按一下 [Enter]****。此命令將專案的最新版本提取到您的資料夾中。 
+2.  我們將提取此專案的最新版本。在開啟終端機中鍵入 [+++getfiles.cmd+++] 並按一下 **[Enter]**。 此命令將專案的最新版本提取到您的資料夾中。 
 3.  此命令運行後，您就可以關閉終端機面板。現在您可以開始使用實驗室。 
 
 ![在 Visual Studio Code 中使用終端機的支援影像。](./images/terminal_support1.jpg)
@@ -18,5 +18,5 @@ lab:
 在此實驗室中我們可以使用 Azure 中的電腦視覺服務以在影像的基礎上識別現實世界的事物。
 
 -  在 Visual Studio Code 中開啟 **01 - Image Analysis with Computer Vision.ipynb** Notebook。 
-    **備註：**您可能會收到提示完成一份 2 分鐘的問卷。繼續並選取 [不，謝謝]****。您可能需要重複此操作若干次。 
+    **備註：** 您可能會收到提示完成一份 2 分鐘的問卷。繼續並選取 **[不，謝謝]**。 您可能需要重複此操作若干次。 
 -  追隨 Notebook 中的指示以完成實驗室。
