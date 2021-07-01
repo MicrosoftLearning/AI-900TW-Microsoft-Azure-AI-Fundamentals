@@ -1,4 +1,4 @@
-﻿---
+---
 title: 线上託管指示
 permalink: index.html
 layout: home
