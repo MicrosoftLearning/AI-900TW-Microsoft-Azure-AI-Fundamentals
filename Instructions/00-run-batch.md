@@ -6,4 +6,4 @@
 
 ![Visual Studio Code 圖示](./images/vscode.jpg)
 
-3. 當 Visual Studio Code 開啟時，您會在左側面板看到 MSLEARN-AI900 專案。此檔案包含本課程的實驗室。 
+3. 當 Visual Studio Code 開啟時，您會在左側面板看到 MSLEARN-AI900 專案。此資料夾包含本課程的實驗室。 
