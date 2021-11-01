@@ -1,4 +1,4 @@
-## 本機開發本機開發本機開發本機開發本機開發 
+﻿## 本機開發本機開發本機開發本機開發本機開發 
 
 如果您正在本機電腦上工作，可以追隨以下步驟來設定您的環境以便使用實驗室工作。  
 
@@ -15,5 +15,5 @@
 ### Visual Studio Code 
 1. 如果還沒有 Visual Studio Code，[請在此處下載](https://code.visualstudio.com/Download)。完成安裝後，開啟 Visual Studio Code 並在擴充套件索引標籤 (CTRL+SHIFT+X) 上，搜尋並安裝 Microsoft 中的 **Python** 擴充套件。
 
-2. 在 Visual Studio Code 中，開啟新的終端機，輸入 **git clone https://github.com/MicrosoftLearning/AI-900TW-Microsoft-Azure-AI-Fundamentals**， 然後選取 *[Enter]*。 
+2. 在 Visual Studio Code 中，開啟新的終端機，輸入 **git clone https://github.com/MicrosoftLearning/AI-900TW-Microsoft-Azure-AI-Fundamentals** 然後選取 *[Enter]*。 
 
