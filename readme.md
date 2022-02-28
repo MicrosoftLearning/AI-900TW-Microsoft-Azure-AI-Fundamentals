@@ -1,4 +1,12 @@
-﻿# Microsoft Azure AI Fundamentals 練習
+**Important Notice!**
+
+This repo was replaced by a [new repo](https://github.com/MicrosoftLearning/AI-900-AIFundamentals.zh-TW) on 4 February 2022 . We're making this change to improve the localized version of this content and reduce the delta between English and localized content updates. 
+After a short interval, this repo will be archived.
+
+**Contributions**
+
+At this time, we are not accepting external contributions to this repo. If you have suggestions or spot any errors, please create a pull request or report an issue on the [new repo](https://github.com/MicrosoftLearning/AI-900-AIFundamentals.zh-TW).
+# Microsoft Azure AI Fundamentals 練習
 
 此存放庫包含適用於 Microsoft 課程的實作教室練習 [AI-900 *Microsoft Azure AI Fundamentals*](https://docs.microsoft.com/zh-tw/learn/certifications/courses/ai-900t00) 和 [Microsoft Learn 自學型課程模組](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals)。這些實驗室是為了配合學習材料並讓您使用其描述的技術進行練習而設計。 
 
